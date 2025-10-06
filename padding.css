@@ -1,0 +1,27 @@
+#main-div{
+    width :100%;
+}
+#btn-back{
+    margin-right: 10px;
+    height: 40px;
+}
+#btn-next{
+    margin-left: 10px;
+    height: 40px;
+}
+.a-1{
+    margin-right: 5px;
+}
+
+#btn-str{
+    margin-top: 15px;
+    height: 40px ;
+    width: 90px;
+    color : white;
+    background-color: green;
+}
+#btn-str:hover{
+    width: 120px;
+    height: 50px;
+    transition: width 1s,height 1s;
+}
