@@ -1,0 +1,50 @@
+.main-div{
+    height: 300px;
+    width: 350px;
+    background-color: rgb(244, 242, 240);
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.first-chat-div{
+    display: flex;
+    margin: 15px;
+}
+.time-div-p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    margin-left: 0px;
+}
+.second-message-p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+.last-p{
+    color: gray;
+    font-size:12px;
+    line-height: 19px;
+}
+.chat-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+.first-p{
+    display: inline-block;
+    color : gray;
+    
+}
+.first-chat-content-div{
+    padding-left: 10px;
+}
+.time-div{
+    display: flex;
+    justify-content: space-between;
+    
+}

@@ -1,6 +1,6 @@
-let a = 5;
-let sum =0;
-for( i=1;i<a;i++){
-    sum = sum +  (i * a);
+for(let i =0;i<5;i++){
+    for(let j=0;j<5;j++){
+        console.log('*');
+    }
+    console.log('\n')
 }
-console.log(sum);
